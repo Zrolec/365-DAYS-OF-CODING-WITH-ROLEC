@@ -93,7 +93,7 @@ ROADMAP TO MASTERING HTML:
 Learning HTML, 🙄 
 
 HTML is only this much 👇😊
-
+/**
 1. Document Structure
 •  <!DOCTYPE>
 •  <html>
@@ -173,6 +173,8 @@ HTML is only this much 👇😊
 •  <center>
 •  <font>
 •  <strike>
+
+**/
 
 
 
