@@ -58,3 +58,25 @@ A road map to mastering coding, from basic to advanced skills in web development
    - Read technical books and blogs.
    - Seek mentorship from experienced developers.
 
+
+
+
+
+
+  DAY 001 
+HTML and CSS (Frontend Basics):
+Learn HTML to structure web content.
+Study CSS for styling and layout.
+Build simple static web pages to understand the basics.
+HTML stands for Hypertext Markup Language. It is a standard markup language used to design the documents displayed in the browsers as a web page. This language can become more interactive and attractive by using CSS ( Cascading Style Sheet) and JS (JavaScript) within it.
+
+Download the necessary tools:
+
+Text Editor:
+VS Code: https://code.visualstudio.com/download
+
+Web Development tools:
+Chrome Download: https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjwysipBhBXEiwApJOcuynFU7yFzXwBo3U9lQjgSSUrg5V6ASxjdMxEdc0EvEOpGWBZVUJ3khoCxOoQAvD_BwE&gclsrc=aw.ds
+
+Version Control:
+Github: https://desktop.github.com/
