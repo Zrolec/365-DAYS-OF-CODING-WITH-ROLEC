@@ -94,7 +94,7 @@ Learning HTML, 🙄
 
 HTML is only this much 👇😊
 
-1. Document Structure
+1. Document Structure :
 •  !DOCTYPE
 •  html
 •  head
@@ -104,7 +104,7 @@ HTML is only this much 👇😊
 •  script
 • noscript
 
-2. Text Content
+2. Text Content :
 •  h1, h2, h3, h4, h5, h6
 •  p
 •  span
@@ -113,7 +113,7 @@ HTML is only this much 👇😊
 •  br
 •  hr
 
-3. Lists
+3. Lists :
 •  ul
 •  ol
 •  li
@@ -121,12 +121,12 @@ HTML is only this much 👇😊
 •  dt
 •  dd
 
-4. Links and Navigation
+4. Links and Navigation :
 •  a
 •  nav
 •  link
 
-5. Embedded Content
+5. Embedded Content :
 •  img
 •  audio
 •  video
@@ -134,7 +134,7 @@ HTML is only this much 👇😊
 •  canvas
 •  svg
 
-6. Forms
+6. Forms :
 •  form
 •  input
 •  textarea
@@ -147,14 +147,14 @@ HTML is only this much 👇😊
 •  datalist
 •  output
 
-7. Tables
+7. Tables :
 •  table
 •  tr
 •  th
 •  td
 •  caption
 
-8. Semantic Elements
+8. Semantic Elements :
 •  article
 •  section
 •  header
@@ -169,7 +169,7 @@ HTML is only this much 👇😊
 •  details
 •  summary
 
-9. Deprecated Elements (Avoid Using)
+9. Deprecated Elements (Avoid Using) :
 •  center
 •  font
 •  strike
