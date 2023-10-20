@@ -64,6 +64,11 @@ A road map to mastering coding, from basic to advanced skills in web development
 
 
   DAY 001 
+
+![HTML-Full-Form](https://github.com/Zrolec/365-DAYS-OF-CODING-WITH-ROLEC/assets/41170025/89c617bf-cb04-4bb5-a195-082c42dadf33)
+
+
+  
 HTML and CSS (Frontend Basics):
 Learn HTML to structure web content.
 Study CSS for styling and layout.
