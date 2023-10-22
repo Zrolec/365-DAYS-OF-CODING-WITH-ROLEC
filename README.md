@@ -174,10 +174,10 @@ HTML is only this much 👇😊
 •  font
 •  strike
 
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
 Day 002 & 003
 <br>
 <br>
@@ -234,9 +234,6 @@ this is to allow for constant practice and exercise.
    - `<audio>` and `<video>` for multimedia content.
    - Various HTML5 elements for more advanced topics like canvas, SVG, web components, and more.
 
-  (footer)
-    (p)&copy; 2023 Your Name(/p)
-  (/footer)
 
 
 
