@@ -174,6 +174,9 @@ HTML is only this much 👇😊
 •  font
 •  strike
 
+Day 002 & 003
+Here I have listed all the elements in HTML from basic to advanced and have stated their uses by the side,
+this is to allow for constant practice and exercise. 
 
 1. Headings:
    - `<h1>` to `<h6>` for different levels of headings.
