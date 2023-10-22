@@ -175,22 +175,54 @@ HTML is only this much 👇😊
 •  strike
 
 
-Today I started from the Basic HTML Elements
-(<head>, <main>, <section>, <body>, <p>, <h1>, <nav>, <ul>:<li> and <ol>:<li> then <a href> )
-and then moved a step further to the Intermediate Elements 
-<table> : <tr>, <th>, <td>
-then to the more advanced Elements
+1. Headings:
+   - `<h1>` to `<h6>` for different levels of headings.
 
-<aside><form>
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name">
-      <label for="email">Email:</label>
-      <input type="email" id="email" name="email">
-      <button type="submit">Submit</button>
-    </form>
-  </aside>
+2. Paragraphs:
+   - `<p>` for paragraphs of text.
 
-<aside>, <form>, <footer>, <button>
+3. Lists:
+   - `<ul>` for unordered (bulleted) lists.
+   - `<ol>` for ordered (numbered) lists.
+   - `<li>` for list items.
+
+4. Links:
+   - `<a>` for hyperlinks.
+
+5. Images:
+   - `<img>` for displaying images.
+
+6. Tables:
+   - `<table>` for creating tables.
+   - `<tr>` for table rows.
+   - `<th>` for table headers.
+   - `<td>` for table data cells.
+
+7. Forms:
+   - `<form>` for creating input forms.
+   - `<input>` for various input types (text, email, password, etc.).
+   - `<label>` for labeling form inputs.
+   - `<button>` for form submission buttons.
+
+8. HTML Structure:
+   - `<html>` for the root of the HTML document.
+   - `<head>` for metadata and document information.
+   - `<meta>` for specifying character encoding and other meta information.
+   - `<title>` for setting the document title.
+   - `<body>` for the main content of the document.
+   - `<header>` for header content (e.g., logos, navigation).
+   - `<nav>` for navigation menus.
+   - `<main>` for the main content section.
+   - `<section>` for structuring content within the main section.
+   - `<aside>` for side content, like a sidebar.
+   - `<footer>` for the document footer.
+
+9. Advanced Elements (Mastery Level):
+   - `<div>` for creating divisions or sections for styling and scripting.
+   - `<span>` for inline styling and scripting.
+   - `<iframe>` for embedding external content (e.g., videos, maps).
+   - `<audio>` and `<video>` for multimedia content.
+   - Various HTML5 elements for more advanced topics like canvas, SVG, web components, and more.
 
   (footer)
     (p)&copy; 2023 Your Name(/p)
