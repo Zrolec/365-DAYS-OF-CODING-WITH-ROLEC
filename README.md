@@ -175,6 +175,9 @@ HTML is only this much 👇😊
 •  strike
 
 Day 002 & 003
+<br>
+<br>
+
 Here I have listed all the elements in HTML from basic to advanced and have stated their uses by the side,
 this is to allow for constant practice and exercise. 
 
