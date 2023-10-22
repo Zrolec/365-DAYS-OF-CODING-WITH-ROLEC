@@ -175,6 +175,28 @@ HTML is only this much 👇😊
 •  strike
 
 
+Today I started from the Basic HTML Elements
+(<head>, <main>, <section>, <body>, <p>, <h1>, <nav>, <ul>:<li> and <ol>:<li> then <a href> )
+and then moved a step further to the Intermediate Elements 
+<table> : <tr>, <th>, <td>
+then to the more advanced Elements
+
+<aside><form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email">
+      <button type="submit">Submit</button>
+    </form>
+  </aside>
+
+<aside>, <form>, <footer>, <button>
+
+  (footer)
+    (p)&copy; 2023 Your Name(/p)
+  (/footer)
+
+
 
 
 
