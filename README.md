@@ -237,17 +237,10 @@ this is to allow for constant practice and exercise.
    - `<audio>` and `<video>` for multimedia content.
    - Various HTML5 elements for more advanced topics like canvas, SVG, web components, and more.
   
-
-
-
-
      <br>
      <br>
      <h2> DAY 005 </h2>
-     Level 1: Basic Fundamentals
-
-
-     
+     Level 1: Basic Fundamentals   
 
 1. Understand What CSS Is:
 
