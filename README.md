@@ -63,7 +63,7 @@ A road map to mastering coding, from basic to advanced skills in web development
 
 
 
-  DAY 001 
+  <h2>DAY 001 </h2>
 
 ![HTML-Full-Form](https://github.com/Zrolec/365-DAYS-OF-CODING-WITH-ROLEC/assets/41170025/89c617bf-cb04-4bb5-a195-082c42dadf33)
 
@@ -236,6 +236,117 @@ this is to allow for constant practice and exercise.
    - `<iframe>` for embedding external content (e.g., videos, maps).
    - `<audio>` and `<video>` for multimedia content.
    - Various HTML5 elements for more advanced topics like canvas, SVG, web components, and more.
+  
+
+
+
+
+     <br>
+     <br>
+     <h2> DAY 005 </h2>
+     Level 1: Basic Fundamentals
+
+
+     
+
+1. Understand What CSS Is:
+
+Learn the basics of CSS (Cascading Style Sheets) and how it's used to style web content.
+HTML and CSS Relationship:
+
+2. Comprehend how CSS works in conjunction with HTML to style web pages.
+Setup Your Development Environment:
+
+3. Choose a text editor and web browser for writing and testing your code.
+Selectors and Properties:
+
+4. Begin with simple CSS selectors and properties like color, font-size, and background-color.
+Practice by styling basic HTML elements (headings, paragraphs, lists, etc.).
+Cascading and Specificity:
+
+5. Understand how CSS rules cascade and how specificity determines which styles apply.
+
+Level 2: Layout and Positioning
+
+6. Box Model:
+Learn about the CSS box model (margin, border, padding, content).
+Practice changing the box model properties.
+Positioning:
+
+7. Explore different positioning techniques like relative, absolute, fixed, and static.
+Build simple layouts using these techniques.
+Flexbox:
+
+8. Dive into the Flexbox layout model to create more complex and responsive layouts.
+Create flexible and responsive design structures.
+Grid Layout:
+
+9. Master CSS Grid Layout for creating grid-based layouts.
+Practice building multi-column designs with grids.
+
+
+Level 3: Advanced Styling
+10. Typography:
+- Learn about font properties, line height, and text alignment.
+- Experiment with different fonts and text styles.
+
+11. Colors and Backgrounds:
+Explore advanced techniques for background images, gradients, and transparency.
+Create visually appealing backgrounds.
+Transitions and Animations:
+
+12. Study CSS transitions and keyframe animations.
+Create smooth hover effects and simple animations.
+
+
+Level 4: Responsive Web Design
+13. Media Queries:
+- Understand media queries and how to make your site responsive.
+- Implement responsive design principles.
+
+14. Viewport Units:
+Utilize viewport units (vw, vh) for responsive font and layout sizes.
+Ensure content adapts to various screen sizes.
+Frameworks and Libraries:
+
+15. Explore CSS frameworks (e.g., Bootstrap) and libraries (e.g., CSS-in-JS).
+Understand when to use them in your projects.
+
+
+Level 5: CSS Preprocessors and Advanced Concepts
+16. Sass or Less:
+- Learn a CSS preprocessor like Sass or Less to write more maintainable code.
+- Use variables, nesting, and mixins for efficiency.
+
+17. CSS Custom Properties (Variables):
+Understand CSS custom properties to create dynamic and easily maintainable styles.
+Implement them in your projects.
+Performance Optimization:
+
+18. Study techniques for optimizing CSS for performance.
+Minify, compress and cache your styles.
+
+
+Level 6: Mastering CSS
+19. Cross-Browser Compatibility:
+- Learn how to handle cross-browser compatibility issues.
+- Test your styles in various browsers.
+
+20. CSS Architecture:
+Study CSS methodologies like BEM, SMACSS, or OOCSS.
+Practice organizing and maintaining large CSS codebases.
+Advanced CSS3 Features:
+
+21. Explore advanced CSS features like custom filters, clipping, masking, and more.
+Use them for unique design elements.
+Accessibility and SEO:
+
+22. Learn how to make your CSS accessible and SEO-friendly.
+Implement best practices for screen readers and search engines.
+Real-World Projects:
+
+23. Work on complex web projects to apply your knowledge.
+Collaborate with others and learn from their expertise.
 
 
 
