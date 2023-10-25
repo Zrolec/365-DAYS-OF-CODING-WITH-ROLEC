@@ -3,6 +3,11 @@ A daily programming exercise that is engaging and detailed and directed towards 
 
 A road map to mastering coding, from basic to advanced skills in web development, web application design, deployment, backend and frontend development, software development, simulation programs, and hardware programming, is a comprehensive journey. Here's a step-by-step guide:
 
+##############################################################################################################################################################################
+
+
+##############################################################################################################################################################################
+
 
 
 1. HTML and CSS (Frontend Basics):
@@ -60,6 +65,11 @@ A road map to mastering coding, from basic to advanced skills in web development
 
 
 
+##############################################################################################################################################################################
+
+
+##############################################################################################################################################################################
+
 
 
 
@@ -85,6 +95,12 @@ Chrome Download: https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjwysipBhB
 
 Version Control:
 Github: https://desktop.github.com/
+
+
+##############################################################################################################################################################################
+
+
+##############################################################################################################################################################################
 
 
 
@@ -242,10 +258,19 @@ this is to allow for constant practice and exercise.
      <h2> DAY 005 </h2>
      Level 1: Basic Fundamentals   
 
+
+##############################################################################################################################################################################
+
+
+##############################################################################################################################################################################
+
+
+
 1. Understand What CSS Is:
 
 Learn the basics of CSS (Cascading Style Sheets) and how it's used to style web content.
 HTML and CSS Relationship:
+
 
 2. Comprehend how CSS works in conjunction with HTML to style web pages.
 Setup Your Development Environment:
@@ -341,7 +366,66 @@ Real-World Projects:
 23. Work on complex web projects to apply your knowledge.
 Collaborate with others and learn from their expertise.
 
+#################################################################################################################################################
+#################################################################################################################################################
 
+What is CSS?
+
+CSS stands for Cascading Style Sheets and is a separate language from HTML.
+It provides a way to control the visual presentation of HTML elements.
+The Structure of CSS:
+
+A CSS rule consists of a selector, property, and value.
+Selector: Defines which HTML elements the rule should apply to.
+Property: Specifies the aspect of the element you want to style.
+Value: Determines the value of the property.
+CSS Selectors:
+
+Selectors target HTML elements to apply styles to.
+Common selectors include element selectors (e.g., p for paragraphs), class selectors (e.g., .my-class), and ID selectors (e.g., #my-id).
+example
+
+p {
+  font-family: Arial, sans-serif;
+  color: #333;
+  font-size: 16px;
+}
+In this example, the selector is p, and the properties are font-family, color, and font-size.
+Linking CSS to HTML:
+
+CSS can be linked to HTML documents in multiple ways.
+The most common method is using an external CSS file, which is linked in the HTML <head> section using the <link> element.
+Internal CSS can be placed within a <style> element in the HTML <head> section.
+Inline CSS can be added directly to individual HTML elements using the style attribute.
+Cascading and Specificity:
+
+The term "cascading" in CSS refers to the order in which styles are applied and how conflicts are resolved.
+Specificity determines which rule takes precedence when multiple rules target the same element.
+Inheritance:
+
+Some CSS properties are inherited from parent elements to their child elements. For example, font properties are often inherited.
+Units and Values:
+
+CSS supports various units and values for properties, including pixels (px), percentages (%), em, rem, and more.
+Colors can be defined in different ways, such as named colors, hexadecimal codes (#RRGGBB), or RGB values.
+Styling Properties:
+
+CSS provides a wide range of properties to style elements, such as text properties (font, color, text-align), background properties (background-color, background-image), box model properties (margin, padding, border), and layout properties (position, display, float).
+Selectors and Pseudo-Classes:
+
+CSS allows for more advanced selectors, including attribute selectors, pseudo-classes (e.g., :hover, :nth-child), and pseudo-elements (e.g., ::before, ::after).
+Media Queries:
+
+Media queries are used for responsive design. They allow you to apply different styles based on the device's screen size or characteristics.
+Vendor Prefixes:
+
+Some CSS properties may require vendor prefixes (-webkit-, -moz-, -ms-, -o-) to work correctly in specific browsers.
+
+
+##############################################################################################################################################################################
+
+
+##############################################################################################################################################################################
 
 
 
