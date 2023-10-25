@@ -3,9 +3,9 @@ A daily programming exercise that is engaging and detailed and directed towards 
 
 A road map to mastering coding, from basic to advanced skills in web development, web application design, deployment, backend and frontend development, software development, simulation programs, and hardware programming, is a comprehensive journey. Here's a step-by-step guide:
 
-##################################################################################################################
+###########################################################################################################
 
-##################################################################################################################
+###########################################################################################################
 
 1. HTML and CSS (Frontend Basics):
    - Learn HTML to structure web content.
